@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7824607111"))
 PORT = os.environ.get("PORT", "3737")
 
 #Database 
-DB_URI = "mongodb+srv://mongodb6789:ZUPUGun3NOTfL2X9@cluster0.1uiec.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://wagene8088:A7i4qstv3CkAcz88@cluster0.ho8xq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "runurl.in")
